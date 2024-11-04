@@ -3,9 +3,9 @@
 
 ## Integrantes do grupo:
 
-**Nome 1:**   ___
+**Nome 1:**   João Pedro Moura Penafiel
 
-* **email:** ___
+* **email:** joaopmp1@al.insper.edu.br
 
 **Nome 2:**   ___
 
