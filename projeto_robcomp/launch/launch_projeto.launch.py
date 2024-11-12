@@ -8,12 +8,11 @@ def generate_launch_description():
             executable='mobilenet_detector',
             output='screen'),
         Node(
-            package='entregavel_6',
-            executable='aruco_detector',
+            package='robcomp_util',
+            executable='creeper_pub',
             output='screen'),
         Node(
             package='robcomp_util',
-            executable='creeper_detector',
+            executable='aruco_detector',
             output='screen'),
-    ],
-    )
+    ],)
