@@ -7,9 +7,9 @@
 
 * **email:** joaopmp1@al.insper.edu.br
 
-**Nome 2:**   ___
+**Nome 2:**   Francisco Reis
 
-* **email:** ___
+* **email:** franciscomefr@al.insper.edu.br
 
 ## Link de vídeos do youtube (quando houver):
 
