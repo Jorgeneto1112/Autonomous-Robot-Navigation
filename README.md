@@ -10,6 +10,10 @@
 **Nome 2:**   Francisco Reis
 
 * **email:** franciscomefr@al.insper.edu.br
+* 
+**Nome 3:**   Jorge Gyotoku Neto
+
+* **email:** jorgeg1@al.insper.edu.br
 
 ## Link de vídeos do youtube (quando houver):
 
