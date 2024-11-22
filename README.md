@@ -3,17 +3,21 @@
 
 ## Integrantes do grupo:
 
-**Nome 1:**   João Pedro Moura Penafiel
-
-* **email:** joaopmp1@al.insper.edu.br
-
-**Nome 2:**   Francisco Reis
+**Nome 1:**   Francisco Reis
 
 * **email:** franciscomefr@al.insper.edu.br
+
+* **Nome 2:**   João Pedro Moura Penafiel
+
+* **email:** joaopmp1@al.insper.edu.br
 
 **Nome 3:**   Jorge Gyotoku Neto
 
 * **email:** jorgeg1@al.insper.edu.br
+
+**Nome 3:**   Marcelo Poltronieri
+
+* **email:** marcelocp3@al.insper.edu.br
 
 ## Link de vídeos do youtube (quando houver):
 
