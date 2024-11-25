@@ -15,14 +15,14 @@
 
 * **email:** jorgeg1@al.insper.edu.br
 
-**Nome 3:**   Marcelo Poltronieri
+**Nome 4:**   Marcelo Poltronieri
 
 * **email:** marcelocp3@al.insper.edu.br
 
 ## Link de vídeos do youtube (quando houver):
 
-**Link 1:**   https://youtu.be/qAi_p2TfPRg
+**Link 1:**  missao c  https://youtu.be/qAi_p2TfPRg
 
-**Link 2:**   https://youtu.be/65Rg9nW9q5Y?si=cIv2QSBKU8ixHYWn
+**Link 2:**  missai b  https://youtu.be/65Rg9nW9q5Y?si=cIv2QSBKU8ixHYWn 
 
 **Link 3:**   ___
