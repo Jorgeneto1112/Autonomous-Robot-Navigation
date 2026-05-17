@@ -2,23 +2,15 @@
 # Project Overview
 This repository contains the software development for an autonomous mobile robot navigation system. Developed as part of the Robotics and Software Engineering curriculum, the project focuses on enabling a robotic agent to map environments, avoid obstacles, and autonomously navigate from a starting point to a designated target.
 
-## Integrantes do grupo:
+## Group Members:
 
-**Nome 1:**   Francisco Reis
+*Name 1:**   Francisco Reis
 
-* **email:** franciscomefr@al.insper.edu.br
+Name 2:**   João Pedro Moura Penafiel
 
-* **Nome 2:**   João Pedro Moura Penafiel
+*Name 3:**   Jorge Gyotoku Neto
 
-* **email:** joaopmp1@al.insper.edu.br
-
-**Nome 3:**   Jorge Gyotoku Neto
-
-* **email:** jorgeg1@al.insper.edu.br
-
-**Nome 4:**   Marcelo Poltronieri
-
-* **email:** marcelocp3@al.insper.edu.br
+*Name 4:**   Marcelo Poltronieri
 
 ## Demonstration
 See the autonomous robot navigation and mapping algorithms in action:
